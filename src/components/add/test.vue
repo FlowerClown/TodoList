@@ -21,7 +21,7 @@ export default {
     return {
       msglist:[
         {id:1,name:"江小白",cont:"劝君更尽一杯酒,喝"},
-        {id:2,name:"李白",cont:"西出阳关无故人"}
+        {id:2,name:"李白",cont:"西出阳关无故人,走"}
       ]
     }
   },
